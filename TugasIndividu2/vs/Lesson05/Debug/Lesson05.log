@@ -1,0 +1,13 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Lesson02.vcxproj, Lesson03.vcxproj, Lesson04.vcxproj, Tugas02.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Demo.cpp
+D:\SEMESTER 5 GUDLAK\Grafkom\TugasIndividu2\TugasIndividu2\vs\Lesson05\Demo.cpp(206,2): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\SEMESTER 5 GUDLAK\Grafkom\TugasIndividu2\TugasIndividu2\vs\Lesson05\Demo.cpp(303,2): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\SEMESTER 5 GUDLAK\Grafkom\TugasIndividu2\TugasIndividu2\vs\Lesson05\Demo.cpp(400,2): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\SEMESTER 5 GUDLAK\Grafkom\TugasIndividu2\TugasIndividu2\vs\Lesson05\Demo.cpp(498,2): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\SEMESTER 5 GUDLAK\Grafkom\TugasIndividu2\TugasIndividu2\vs\Lesson05\Demo.cpp(595,2): warning C4305: 'initializing': truncation from 'double' to 'float'
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+SOIL.lib(image_DXT.obj) : warning LNK4099: PDB 'vc110.pdb' was not found with 'SOIL.lib(image_DXT.obj)' or at 'D:\SEMESTER 5 GUDLAK\Grafkom\TugasIndividu2\TugasIndividu2\vs\Debug\vc110.pdb'; linking object as if no debug info
+SOIL.lib(image_helper.obj) : warning LNK4099: PDB 'vc110.pdb' was not found with 'SOIL.lib(image_helper.obj)' or at 'D:\SEMESTER 5 GUDLAK\Grafkom\TugasIndividu2\TugasIndividu2\vs\Debug\vc110.pdb'; linking object as if no debug info
+SOIL.lib(SOIL.obj) : warning LNK4099: PDB 'vc110.pdb' was not found with 'SOIL.lib(SOIL.obj)' or at 'D:\SEMESTER 5 GUDLAK\Grafkom\TugasIndividu2\TugasIndividu2\vs\Debug\vc110.pdb'; linking object as if no debug info
+SOIL.lib(stb_image_aug.obj) : warning LNK4099: PDB 'vc110.pdb' was not found with 'SOIL.lib(stb_image_aug.obj)' or at 'D:\SEMESTER 5 GUDLAK\Grafkom\TugasIndividu2\TugasIndividu2\vs\Debug\vc110.pdb'; linking object as if no debug info
+  Lesson05.vcxproj -> D:\SEMESTER 5 GUDLAK\Grafkom\TugasIndividu2\TugasIndividu2\vs\Debug\Lesson05.exe
